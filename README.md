@@ -5,7 +5,6 @@
 - 📫 How to reach me :
        > Email:
          lokhande2505vaibhav@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love playing cricket.
 
 <!---
