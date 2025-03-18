@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Lokhande.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate open scorce programming and my college projects.
+- 💞️ I’m looking to collaborate open scorce programming .
 - 📫 How to reach me :
        > Email:
          lokhande2505vaibhav@gmail.com
